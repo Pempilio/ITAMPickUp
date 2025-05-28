@@ -6,12 +6,12 @@ Este repositorio contiene la documentación completa y el material de trabajo de
 
 **ITAMPickUp** es una aplicación pensada para estudiantes del ITAM que desean pedir café de manera rápida, sin interrumpir sus clases. La solución aprovecha datos como el horario del alumno y el clima para recomendar bebidas y permitir entregas discretas justo al salir del salón.
 
-El proyecto siguió el ciclo completo de UX y desarrollo ágil:
-- Identificación de usuarios (Modelos Persona)
-- Maquetado inicial en papel y Canva
-- Prototipos interactivos en Figma
-- Backlog de desarrollo priorizado
-- Pruebas de usuario e iteraciones
+El proyecto siguió el **ciclo completo de UX** y **desarrollo Ágil**:
+- Identificación de usuarios (*Modelos Persona*)
+- *Maquetado* inicial en papel y Canva
+- Prototipos interactivos en *Figma*
+- *Backlog* de desarrollo priorizado
+- *Pruebas de usuario* e iteraciones
 
 ---
 
@@ -56,9 +56,12 @@ El proyecto siguió el ciclo completo de UX y desarrollo ágil:
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
-Samuel Rodrigo Orduña Ferreira  
-Estudiante de Ingeniería en Computación  
-`samuel.orduna@itam.mx`
+- EMILIO MEDINA MEJIA
+- FRANCISCO EMILIO CERVANTES SILVA
+- GERARDO OBEID GUZMAN
+- SAMUEL RODRIGO ORDUÑA FERREIRA
+- NICOLAS ROBLES CERVANTES
 
+EstudianteS de Ingeniería en Computación
