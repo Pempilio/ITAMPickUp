@@ -1,3 +1,5 @@
+![CaféApp Preview](https://github.com/Pempilio/ITAMPickUp/blob/main/CAFEAPP.jpeg?raw=true)
+
 # ☕ ITAMPickUp — Proyecto Final ADSI Primavera 2025
 
 Este repositorio contiene la documentación completa y el material de trabajo del proyecto **CaféApp / ITAMPickUp**, desarrollado como parte del curso *Análisis y Diseño de Sistemas de Información* (ADSI) en el ITAM, durante el semestre Primavera 2025.
